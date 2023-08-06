@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(128, 128, 128);
+    text-align: center;
+}
+
+h1 {
+    color: palegreen;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    margin-bottom: 2%;
+}
+
+img[src="./img/animate.gif"] {
+    width: 500px;
+    height: auto;
+    margin-top: 3%;
+}

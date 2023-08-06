@@ -1,0 +1,16 @@
+body {
+    background-color: #240747;
+}
+
+h1, .image, .Description {
+    text-align: center;
+    align-content: center;
+}
+
+h1, h2 {
+    color: #eb2632;
+}
+
+p, ul, ol {
+    color: #f6e4ad;
+}
