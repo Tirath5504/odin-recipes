@@ -21,3 +21,9 @@ img[src="./img/animate.gif"] {
     height: auto;
     margin-top: 3%;
 }
+
+button {
+    background-color: aquamarine;
+    color: red;
+    margin: 0.5%;
+}
