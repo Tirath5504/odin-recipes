@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(128, 128, 128);
+    background-color: rgb(27, 25, 25);
     text-align: center;
 }
 
@@ -26,4 +26,27 @@ button {
     background-color: aquamarine;
     color: red;
     margin: 0.5%;
+    padding: 20px;
+}
+
+.image {
+    display: inline-block;
+    padding: 20px;
+}
+
+img {
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+}
+
+header {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
 }
